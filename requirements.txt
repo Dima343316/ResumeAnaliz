@@ -1,0 +1,4 @@
+streamlit
+openai
+seatable_api
+httpx[socks]
